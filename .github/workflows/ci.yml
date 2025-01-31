@@ -1,0 +1,5 @@
+name: AppTests
+on:
+    push:
+        branches:
+            - main
